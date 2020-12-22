@@ -18,7 +18,8 @@ relax data wrangler (residue-level intensity info to relax-friendly files)
 relax to figures 
 
 --CEST--
-CCPN to chemex data wrangler (already have version 1 done)
+CCPN + fq3list chemex data wrangler (already have version 1 done)
+a script to run chemex iteratively for all, or for a selection of residues, that summarizes stats, too.
 chemex dir File to dataframe + figures (already have version 1 done, would like to store in data frame rather than in dictionaries )
 
 
